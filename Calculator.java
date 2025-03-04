@@ -28,7 +28,7 @@ class Calculator {
     JPanel displayPanel = new JPanel();
     JPanel buttonsPanel = new JPanel();
 
-    //A+B, A-B, A*B, A/B
+    
     String A = "0";
     String operator = null;
     String B = null;
